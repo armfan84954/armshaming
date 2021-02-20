@@ -1,4 +1,7 @@
 # Wall of shame
+
+https://armshaming.space/
+
 Inspired by the official Docker documentation, [which publicly shames mysql for not supporting ARM and recommends the usage of mariadb instead](https://docs.docker.com/docker-for-mac/apple-m1/#known-issues). This is as funny as it gets, when it comes to technical documentation for a containerization tool.
 
 ![screenshot_docker_docs.png](./screenshot_docker_docs.png)
